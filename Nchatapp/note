@@ -1,1 +1,17 @@
+this is my first socket project!!
+its a mini chat app to run this program you have to:
 
+
+-- make java project chat
+-- create chat package inside src
+-- out the 3 files inside the chat package
+-- compile all : in cmd use 
+javac src/chat/*.java
+
+-- run Serveur first: in cmd use 
+java -cp src chat.Serveur
+
+-- run multiple Clients instance : in cmd use 
+java -cp src chat.Client
+
+...and thats it! hope you enjoy my Nchatapp
